@@ -1,0 +1,39 @@
+body{
+
+    background-image: url(https://png.pngtree.com/png-clipart/20190516/original/pngtree-back-to-school-doodle-line-drawing-vector-illustration-black-and-white-png-image_4137940.jpg);
+}
+
+.heading{
+
+    font-size: 40px;
+    color: maroon;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 7px 7px 4px yellowgreen;
+}
+
+
+.div1{
+
+    float: none;
+    color: teal;
+    font-size: 30px;
+    box-shadow: 4px 4px 4px aqua;
+}
+
+.div2{
+
+    font-size: 20px;
+}
+
+label{
+
+    font-size: 30px;
+}
+
+canvas{
+
+    border: 2px solid lightcoral;
+    border-radius: 20px;
+    box-shadow: 4px,4px,6px,mediumseagreen;
+}
